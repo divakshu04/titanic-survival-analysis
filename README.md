@@ -64,29 +64,43 @@ The dataset contains data of the passengers that are boarded on Titanic in 1912.
 After predicting whether a passenger is survived or not, we can the result:
 
 1. PCLASS VS SURVIVAL
+   
+   ![Pclass vs Survival](https://github.com/divakshu04/titanic-survival-analysis/assets/127183494/a0fe291a-d215-41d6-afd3-228e659a8152)
 
 From the graph, we can conclude that the passenger of 3rd class had the highest probability of not being survived.
 
 2. SEX VS SURVIVAL
 
+   ![Sex vs Survival](https://github.com/divakshu04/titanic-survival-analysis/assets/127183494/1b9741e9-f996-4632-ab95-2e728f9d2534)
+
 From the graph, we can conclude that Male had the mre chances of being dead. The reason could be that they were sacrificing their lives on saving womens and childrens. 
 
 3. AGE VS SURVIVAL
+
+   ![Age vs Survival](https://github.com/divakshu04/titanic-survival-analysis/assets/127183494/ea4e347c-4b4e-4d88-8c98-0654c005ea39)
 
 We can conclude that majority of the passengers that were aboard are passengers of age group of around 20-30.
 
 4. SIBSP VS SURVIVAL
 
+   ![SibSp vs Survival](https://github.com/divakshu04/titanic-survival-analysis/assets/127183494/119854a2-c169-4e06-92c7-5a0671edf105)
+
 From the graph, we can conclude that passengers having no siblings or spouses were more likely to died. The reason could be that the main target was to save passengers with family and childrens.
 
 5. PARCH VS SURVIVAL
+
+   ![Parch vs Survival](https://github.com/divakshu04/titanic-survival-analysis/assets/127183494/e02b4e7a-c14d-4906-b324-2d2131c5037e)
 
 We can conclude that passengers with no family or children aboard are more likely to die.
 
 6. FARE VS SURVIVAL
 
+   ![Fare vs Survival](https://github.com/divakshu04/titanic-survival-analysis/assets/127183494/63c683a0-ea0d-4bc2-b6af-1894e7a0cd9f)
+
 From the graph, we can conclude that passengers those had paid less money were more likely to die. We can see from the graph, the chances of  survival of passengers with higher fare were high.
 
 7. EMBARKED VS SURVIVAL
+
+   ![Embarked vs Survival](https://github.com/divakshu04/titanic-survival-analysis/assets/127183494/5b6e449f-9d2b-4cba-a2b3-f058e33c7b19)
 
 From the graph, we can conclude that most of the passengers were embarked to be on Southampton port, haence, there probability of dying is higher as compared to others.
