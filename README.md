@@ -103,4 +103,4 @@ From the graph, we can conclude that passengers those had paid less money were m
 
    ![Embarked vs Survival](https://github.com/divakshu04/titanic-survival-analysis/assets/127183494/5b6e449f-9d2b-4cba-a2b3-f058e33c7b19)
 
-From the graph, we can conclude that most of the passengers were embarked to be on Southampton port, haence, there probability of dying is higher as compared to others.
+From the graph, we can conclude that most of the passengers were embarked to be on Southampton port. Hence, there probability of dying is higher as compared to others.
